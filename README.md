@@ -5,7 +5,7 @@ A secure crypto wallet application designed to manage digital assets, handle tra
 
 ## Features
 - User authentication system
-- Wallet address generation (planned)
+- Wallet address generation
 - Transaction handling
 - API integration for blockchain interaction
 - Security-focused backend design
