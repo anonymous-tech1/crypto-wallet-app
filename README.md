@@ -35,4 +35,4 @@ npm start
 🚧 Work in progress  
 
 ## Author
-Emmanuel Alexander
+Anonymous Tech
