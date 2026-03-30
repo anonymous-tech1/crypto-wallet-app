@@ -1,21 +1,22 @@
 # Crypto Wallet App
 
 ## Overview
-A secure crypto wallet application currently in development.
+A secure crypto wallet application designed for managing digital assets with a focus on privacy and security.
 
 ## Features
-- User authentication
+- Secure authentication
 - Transaction handling
 - API integration
-- Security & privacy focused design
+- Encryption-focused design
 
 ## Tech Stack
 - Python / Node.js
-- Linux environment
+- Linux
 - REST APIs
 
-## Status
-🚧 Work in progress
-
-## Author
-Anonymous Tech
+## Installation
+```bash
+git clone https://github.com/anonymous-tech1/nexus-wallet
+cd nexus-wallet
+npm install
+npm start
