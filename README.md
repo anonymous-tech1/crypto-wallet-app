@@ -22,3 +22,17 @@ git clone https://github.com/anonymous-tech1/crypto-wallet-app
 cd crypto-wallet-app
 npm install
 npm start
+
+## Project Structure
+- /src → core application logic  
+- /api → API handling  
+- /utils → helper functions  
+
+## Screenshots
+(Add screenshots here)
+
+## Status
+🚧 Work in progress  
+
+## Author
+Emmanuel Alexander
